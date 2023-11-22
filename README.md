@@ -1,6 +1,7 @@
 ### WhatsApp MD User Bot
 
 A simple WhatsApp User bot.
+Get SESSION-ID by scanning QR code. Whatapp>Three dots>Linked Devices
 
 ## Setup
 
